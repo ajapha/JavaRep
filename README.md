@@ -1,4 +1,4 @@
 JavaRep
 =======
 
-Repository ofg files written while learning java
+Repository of programs written while learning java
